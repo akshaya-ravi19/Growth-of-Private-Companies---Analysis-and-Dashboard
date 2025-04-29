@@ -31,8 +31,8 @@ C. Visualization (Power BI)
 4. Interactive filters and drill-downs.
 
 ## Key Insights
-- Top Revenue Concentration: A small group of companies contributed over 40% of the total revenue.
-- Industry Leaders: Technology, Healthcare, and Finance had the highest growth rates.
-- Geographic Insights: California, New York, and Texas dominated in terms of company count and revenue.
+- Top Revenue Concentration: The top 10 companies generating the maximum revenue contribute to about 2 billion dollars. 
+- Industry Leaders: Consumer Products and Services, Energy, and Food & Beverage had the highest growth rates.
+- Geographic Insights: Texas, California and Virginia dominated in terms of company count and revenue.
 - Hidden Gems: Some industries with lower employee counts showed exceptional growth potential.
 - Company Lifecycle: Newer companies (0–2 years on the list) demonstrated stronger growth trends compared to older players.
